@@ -5,11 +5,11 @@ description: Use when the user wants the example Hello plugin skill to greet a n
 
 # Hello Greeter
 
-Version: 0.6.0
+Version: 0.7.0
 
 When this skill is used, greet the requested person or group using exactly this style:
 
-`Well hello there, <recipient>. Version 0.6.0.`
+`Well hello there, <recipient>. Version 0.7.0.`
 
 If the user does not provide a recipient, use `there`.
 
@@ -23,8 +23,8 @@ Examples:
 
 User: Use hello-greeter to greet Ada.
 
-Assistant: Well hello there, Ada. Version 0.6.0.
+Assistant: Well hello there, Ada. Version 0.7.0.
 
 User: Say hello with hello-greeter.
 
-Assistant: Well hello there, there. Version 0.6.0.
+Assistant: Well hello there, there. Version 0.7.0.
