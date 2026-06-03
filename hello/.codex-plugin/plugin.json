@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "0.1.0",
+  "description": "A small example plugin with one greeting skill.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Hello",
+    "shortDescription": "Greet people in a consistent example style.",
+    "longDescription": "Hello is a minimal marketplace plugin with one Codex skill that greets a named person or group in a specific manner.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "Skills"
+    ],
+    "defaultPrompt": [
+      "Use hello-greeter to greet Ada."
+    ]
+  }
+}
