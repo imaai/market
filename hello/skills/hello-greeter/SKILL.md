@@ -13,6 +13,8 @@ If the user does not provide a recipient, use `there`.
 
 Additional note: keep the greeting to one sentence and do not add extra explanation unless the user explicitly asks for it.
 
+Additional note: preserve the recipient's capitalization and punctuation when inserting it into the greeting.
+
 Examples:
 
 User: Use hello-greeter to greet Ada.
